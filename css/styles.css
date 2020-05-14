@@ -66,13 +66,13 @@ a:hover {
     width: 70px;
     position: absolute;
     left: 350px;
-    bottom: 250px;
+    bottom: 300px;
 }
 .bottom-cloud {
   position: absolute;
   width: 100px;
   right: 350px;
-  bottom: 300px;
+  bottom: 350px;
 }
 
 .top-moon {
